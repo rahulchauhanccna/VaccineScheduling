@@ -1,5 +1,12 @@
 # VaccineScheduling
 
+API that’s able to communicate to a citizen the nearest place to schedule a vaccine appointment for people
+
+who have not been administered a vaccine before
+who are healthy
+
+
+
 Minimal [Spring Boot](http://projects.spring.io/spring-boot/) sample app.
 
 ## Requirements
